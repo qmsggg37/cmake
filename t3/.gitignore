@@ -132,4 +132,4 @@ cmake_install.cmake
 
 # bin
 hello
-./build
+/build
